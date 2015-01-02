@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>DC3930DE-2C3A-4F19-A9E8-6DDE2E4B8CE8</string>
+	<key>IDESourceControlProjectName</key>
+	<string>aMenjar</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>4b0efc98-0bad-43b3-8790-f1235b9c0ca8</key>
+		<string>https://riouxsvn.com/svn/amenjarios</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>aMenjar.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>4b0efc98-0bad-43b3-8790-f1235b9c0ca8</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>4b0efc98-0bad-43b3-8790-f1235b9c0ca8</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>4b0efc98-0bad-43b3-8790-f1235b9c0ca8</string>
+			<key>IDESourceControlWCCName</key>
+			<string>aMenjarSVN</string>
+		</dict>
+	</array>
+</dict>
+</plist>
